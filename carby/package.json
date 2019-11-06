@@ -1,0 +1,40 @@
+{
+  "name": "carby",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://localhost:4000",
+  "dependencies": {
+    "chart.js": "^2.9.2",
+    "mysql": "^2.17.1",
+    "react": "^16.9.0",
+    "react-chartjs-2": "^2.8.0",
+    "react-dom": "^16.9.0",
+    "react-redux": "^7.1.1",
+    "react-redux-form": "^1.16.14",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.1.1",
+    "redux": "^4.0.4",
+    "redux-form": "^8.2.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
