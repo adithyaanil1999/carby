@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="carby/public/img/logo.png" alt="Logo" width="20%" height="20%">
+    <img src="carby/public/img/logo.png" alt="Logo" width="20%" height="20%">Carby
   </a>
 </p>
 
