@@ -1,8 +1,9 @@
-# carby
+# Carby
 
 [![License](https://img.shields.io/github/license/koticcat/WhatToWatch.svg?style=flat-square)]()
-[![Node](https://img.shields.io/badge/Node-10.15.2-yellow.svg)]()
-[![Webpack](https://img.shields.io/badge/Webpack-4.30.0-red.svg)]()
+[![React](https://img.shields.io/badge/REACT-16.9.0-red)]()
+[![Express](https://img.shields.io/badge/Express-4.16.1-green)]()
+
 
 <br />
 <p align="center">
@@ -16,10 +17,9 @@
 React-Redux based nutrition tracker
 
 ### Built With
-  * [Node](https://nodejs.org/en/)
-  * [JQuery](https://jquery.com)
-  * [Webpack](https://webpack.js.org/)
-  * [Animate.css](https://daneden.github.io/animate.css/)
+  * [React](https://reactjs.org/)
+  * [Express](https://expressjs.com/)
+  
   
 
 ### API's used
@@ -30,15 +30,15 @@ React-Redux based nutrition tracker
 Make Sure You have npm and Node isntalled as well as new api keys, then:
 1.Clone the Repo:
 ```sh
-  git clone https://github.com/koticcat/WhatToWatch-git
+  git clone https://github.com/adithyaanil1999/carby.git
 ```
 2.Install npm packages:
  ```sh
   npm install
 ``` 
-3.Change the API keys to your API keys in the /model/getmovie.js file.
+3.Change the API keys to your API keys 
 
-4.Run the webpack script, to lauch the app in the localhost
+4.Run the Express AND react to start dev server
  ```sh
   npm run start
 ``` 
@@ -46,11 +46,7 @@ Make Sure You have npm and Node isntalled as well as new api keys, then:
  ```sh
   npm run build 
 ```
- OR 
-  ```sh
-  npm run dev
-```
-for bypassing webpack optimization
+
 
 ## License
 
