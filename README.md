@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="carby/public/img/logo.png" alt="Logo" width="20%" height="20%">Carby
+    <img src="carby/public/img/logo.png" alt="Logo" width="20%" height="20%">
   </a>
 </p>
 
@@ -23,10 +23,8 @@ React-Redux based nutrition tracker
   
 
 ### API's used
-[![TMDB](https://img.shields.io/badge/TMDB-v2%20-yellowgreen.svg)]()
-[![OMDB](https://img.shields.io/badge/OMDB-v1-yellow.svg)]()
-  * [TMDB](https://developers.themoviedb.org)
-  * [OMDB](http://omdbapi.com)
+[![EDAMAM](https://img.shields.io/badge/EDAMAM-API-brightgreen)]()
+  * [EDAMAM](https://developers.themoviedb.org)
   
 ## Getting Started
 Make Sure You have npm and Node isntalled as well as new api keys, then:
