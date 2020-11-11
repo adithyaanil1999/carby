@@ -12,7 +12,7 @@
   </a>
 </p>
 
-
+DEPLOYED AT https://adithyaanil1999.github.io/CarbyREACT/
 ## About The Project
 React-Redux based nutrition tracker
 
